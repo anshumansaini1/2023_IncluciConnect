@@ -1,11 +1,11 @@
- 2023_IncluciConnect
- https://aaravnijhawanib.wixsite.com/inclusivconnect
- Information about the project is in inclusiconnect.pdf
- In the case the PDF fails to work, the content of the PDF is:
+ #2023_IncluciConnect
+ #https://aaravnijhawanib.wixsite.com/inclusivconnect
+ #Information about the project is in inclusiconnect.pdf
+ #In the case the PDF fails to work, the content of the PDF is:
 
-Sub-theme: - Empowering Diverse Abilities
-Project Name: IncluciConnect
-Prototype: https://aaravnijhawanib.wixsite.com/inclusivconnect
+#Sub-theme: - Empowering Diverse Abilities
+#Project Name: IncluciConnect
+#Prototype: https://aaravnijhawanib.wixsite.com/inclusivconnect
 Lead Authors: Uday Singh Sandhu, Aarav Nijhawan, Pranjul Agrawal,
 Aairaa Jain, Anshuman Saini
 
